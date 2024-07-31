@@ -8,11 +8,11 @@
 
 <i>Linguagens e Ferramentas</i>
 <div style="display: inline_block">
-    <img align="center" alt="python" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="automate" height="122" width="auto" src="https://static.cognitoforms.com/content/product/assets/images/power-automate-full-logo-b9c3c4d1-fa1f-41be-b75c-31a7d9c00f4c-8fc2c2f-201x201.png"/>
-    <img align="center" alt="git" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-    <img align="center" alt="github" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-    <img align="center" alt="markdown" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg">  
+    <img align="center" alt="python" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img align="center" alt="automate" height="69" width="auto" src="https://i.postimg.cc/KY8GZzvN/rsw-12802.png"/>
+    <img align="center" alt="git" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
+    <img align="center" alt="github" height="100" width="auto" src="https://i.postimg.cc/fR8gmTDk/pngwing-com.png"/>
+    <img align="center" alt="markdown" height="50" width="auto" src="https://www.markdownguide.org/assets/images/markdown-mark-white.svg"/>  
     <img align="center" alt="visualstudeocode" height="70" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
    
 </div>
